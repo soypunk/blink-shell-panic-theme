@@ -5,4 +5,4 @@ This is a very simple port of the [Panic terminal color scheme referenced in a T
 Blink Shell has documentation for [installing and customizing themes][1].
 
 [1]: https://github.com/blinksh/themes
-[2]: https://mobile.twitter.com/panic/status/239107623398551552?lang=en
+[2]: https://mobile.twitter.com/panic/status/558389225612005376?lang=en
